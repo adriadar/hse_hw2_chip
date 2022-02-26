@@ -9,9 +9,12 @@
 
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/table.png)
 
+Почему процент выравниваний получился именно таким?
 ### Диаграммы
 
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn1-1.png)
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn2-1.png)
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn3-1.png)
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn4-1.png)
+
+Проанализируйте полученные результаты и приведите свои рассуждения в README.md. Как можно объяснить различия в количестве пересечений?
