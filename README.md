@@ -10,6 +10,8 @@
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/table.png)
 
 Почему процент выравниваний получился именно таким?
+
+Мы выравниваем всего на одну хромосому, поэтому получается большой процент невыровненных.
 ### Диаграммы
 
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn1-1.png)
