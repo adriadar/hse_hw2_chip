@@ -11,7 +11,7 @@
 
 Почему процент выравниваний получился именно таким?
 
-Мы выравниваем всего на одну хромосому, поэтому получается большой процент невыровненных.
+Мы выравниваем всего на одну хромосому, поэтому получается большой процент невыровненных. (подрезание не сильно улучшило результаты)
 ### Диаграммы
 
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn1-1.png)
@@ -20,3 +20,9 @@
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn4-1.png)
 
 Проанализируйте полученные результаты и приведите свои рассуждения в README.md. Как можно объяснить различия в количестве пересечений?
+
+
+### Бонус
+
+![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_fxu.png)
+![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_qcm.png)
