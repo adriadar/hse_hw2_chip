@@ -24,5 +24,5 @@
 
 ### Бонус
 
-![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_fxu.png)
-![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_qcm.png)
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_fxu.png width="400">
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_qcm.png width="400">
