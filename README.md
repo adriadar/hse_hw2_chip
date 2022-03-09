@@ -6,6 +6,7 @@
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo1.png> 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv1.png> 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad1.png> 
+Все три рида хорошего качества, так как они все находятся в зеленой зоне.
 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo2.png> 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv2.png> 
