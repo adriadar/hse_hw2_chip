@@ -14,7 +14,8 @@
 Мы выравниваем всего на одну хромосому, поэтому получается большой процент невыровненных. (подрезание не сильно улучшило результаты)
 ### Диаграммы
 
-<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn1-1.png width="700"> <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn2-1.png width="700">
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn1-1.png>
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn2-1.png>
 
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn3-1.png)
 ![](https://github.com/adriadar/hse_hw2_chip/blob/main/img/Intervene_venn4-1.png)
