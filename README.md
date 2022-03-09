@@ -3,7 +3,21 @@
 [colab](https://colab.research.google.com/drive/1Ycsdk3-0EGhef3GgxZkByKvkMArD8lne?usp=sharing)
 
 ### FastQc
-<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo1.png> <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv1.png> <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad1.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo1.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv1.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad1.png> 
+
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo2.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv2.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad2.png> 
+
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo3.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv3.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad3.png> 
+
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo4.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv4.png> 
+<img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad4.png> 
 ### Статистика по образцам
 [fastqc отчеты можно найти здесь](https://github.com/adriadar/hse_hw2_chip/tree/main/fastqc)
 
