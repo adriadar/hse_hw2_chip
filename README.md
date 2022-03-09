@@ -18,6 +18,7 @@
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo4.png> 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv4.png> 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad4.png> 
+
 ### Статистика по образцам
 [fastqc отчеты можно найти здесь](https://github.com/adriadar/hse_hw2_chip/tree/main/fastqc)
 
