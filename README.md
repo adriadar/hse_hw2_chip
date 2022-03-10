@@ -60,4 +60,6 @@ Sequence Duplication Levels: процент дупликации невысок�
 
 ### Бонус
 
+Единственный график, который я нашла для сравнения - [этот](https://www.researchgate.net/figure/Location-of-H3K4me3-AcH3-and-H3K27me3-peaks-on-gene-promoters-in-relation-to_fig1_47814638), так не полный геном, но та часть,которая есть не согласуется вообще.
+
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_fxu.png width="400"> <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/result_qcm.png width="400">
