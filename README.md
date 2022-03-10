@@ -9,6 +9,7 @@ ENCFF002AWO
 ENCFF002AWV
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad1.png> 
 ENCFF849RAD
+
 Per sequence quality scores: Все три реплики хорошего качества, так как большинство ридов находятся в зеленой зоне.
 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo2.png> 
@@ -17,6 +18,7 @@ ENCFF002AWO
 ENCFF002AWV
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad2.png> 
 ENCFF849RAD
+
 Per sequence quality scores: тоже все хорошо, большинство ридов имеют высокое качество.
 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo3.png>
@@ -25,12 +27,16 @@ ENCFF002AWO
 ENCFF002AWV
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad3.png>
 ENCFF849RAD
+
 Per base sequence content: у реплики ENCFF002AWO странное распределение, возможно какая-нибудь ошибка при севенировании. У остальных же все хорошо.
 
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awo4.png> 
 ENCFF002AWO
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/awv4.png> 
+ENCFF002AWV
 <img src=https://github.com/adriadar/hse_hw2_chip/blob/main/img/rad4.png> 
+ENCFF849RAD
+
 Sequence Duplication Levels: процент дупликации невысокий у всех трех реплик.
 
 ### Статистика по образцам
